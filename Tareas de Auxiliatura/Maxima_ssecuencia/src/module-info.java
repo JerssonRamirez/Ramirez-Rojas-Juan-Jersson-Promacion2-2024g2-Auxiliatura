@@ -1,0 +1,2 @@
+module Maxima_ssecuencia {
+}
